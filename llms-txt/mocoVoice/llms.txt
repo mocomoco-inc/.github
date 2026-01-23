@@ -46,3 +46,4 @@ mocoVoiceは、mocomoco株式会社が独自に研究開発したAI音声認識�
 - セキュリティ: https://products.mocomoco.ai/mocoVoice-security
 - 導入事例: https://products.mocomoco.ai/casestudy
 - API/MCP: https://products.mocomoco.ai/mocoVoice-api
+- 医療モデル: https://www.mocomoco.ai/news/mocovoice_medical_model

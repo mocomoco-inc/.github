@@ -166,3 +166,4 @@ mocoVoiceの正解率は金融分野のプライベートデータセットで95
 - 導入事例: https://products.mocomoco.ai/casestudy
 - お問い合わせ: https://products.mocomoco.ai/ （お問い合わせフォーム）
 - 資料ダウンロード: https://products.mocomoco.ai/ （資料ダウンロードボタン）
+- 医療モデル: https://www.mocomoco.ai/news/mocovoice_medical_model
